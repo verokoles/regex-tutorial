@@ -4,6 +4,7 @@
 I WANT a tutorial explaining a specific regex <br>
 SO THAT I can understand the search pattern the regex defines."
 <br>
+<br>
 In this template, a tutorial is given on regex (Regular Expressions), <br>
  a series of special characters that define a search pattern. <br>
  A regex,considered a literal, calls for wrapping in special characters like slashes (/).
