@@ -1,13 +1,13 @@
 # REGEX TUTORIAL
 
 In this template, a tutorial is given on regex (Regular Expressions), <br>
- a series of special characters that define a search pattern.
+ a series of special characters that define a search pattern. <br>
  A regex is considered a literal, which calls for wrapping in special characters like slashes (/).
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
-
+I will be going over the expression, ______________.
+code snippet: 
 ## Table of Contents
 
 - [REGEX TUTORIAL](#regex-tutorial)
