@@ -1,8 +1,12 @@
 # REGEX TUTORIAL
-
+## User-Story
+"AS A web development student <br>
+I WANT a tutorial explaining a specific regex <br>
+SO THAT I can understand the search pattern the regex defines."
+<br>
 In this template, a tutorial is given on regex (Regular Expressions), <br>
  a series of special characters that define a search pattern. <br>
- A regex is considered a literal, which calls for wrapping in special characters like slashes (/).
+ A regex,considered a literal, calls for wrapping in special characters like slashes (/).
 
 ## Summary
 
@@ -11,6 +15,7 @@ code snippet:
 ## Table of Contents
 
 - [REGEX TUTORIAL](#regex-tutorial)
+  - [User-Story](#user-story)
   - [Summary](#summary)
   - [Table of Contents](#table-of-contents)
   - [Regex Components](#regex-components)
