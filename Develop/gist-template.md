@@ -1,6 +1,8 @@
-# Title (replace with your title)
+# REGEX TUTORIAL
 
-Introductory paragraph (replace this with your text)
+In this template, a tutorial is given on regex (Regular Expressions), <br>
+ a series of special characters that define a search pattern.
+ A regex is considered a literal, which calls for wrapping in special characters like slashes (/).
 
 ## Summary
 
@@ -8,7 +10,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Table of Contents
 
-- [Title (replace with your title)](#title-replace-with-your-title)
+- [REGEX TUTORIAL](#regex-tutorial)
   - [Summary](#summary)
   - [Table of Contents](#table-of-contents)
   - [Regex Components](#regex-components)
@@ -54,4 +56,4 @@ Briefly summarize the regex you will be describing and what you will explain. In
  My name is Veronica Kolesnikov, a junior developer from San Antonio, TX.<br>
  Currently finishing a full-stack dev bootcamp and becoming employed in front-end and/or back-end.<br>
 
-[:octocat:](https://github.com/verokoles)
+[:octocat: Github Profile](https://github.com/verokoles)
