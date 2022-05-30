@@ -4,7 +4,6 @@
 I WANT a tutorial explaining a specific regex <br>
 SO THAT I can understand the search pattern the regex defines."
 <br>
-<br>
 In this template, a tutorial is given on regex (Regular Expressions),
  _a series of special characters that define a search pattern_. <br>
 
@@ -21,7 +20,7 @@ Code snippet: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
   - [Table of Contents](#table-of-contents)
   - [Regex Components:jigsaw:](#regex-componentsjigsaw)
     - [Anchors:anchor:](#anchorsanchor)
-    - [Quantifiers:plus_sign:](#quantifiersplus_sign)
+    - [Quantifiers:heavy_plus_sign:](#quantifiersheavy_plus_sign)
     - [OR Operator:``:](#or-operator)
     - [Character Classes:](#character-classes)
     - [Flags:triangular_flag_on_post:](#flagstriangular_flag_on_post)
@@ -39,7 +38,7 @@ down the different components of this expression.
 ### Anchors:anchor:
 Anchors are the wrapping symbols which indicate the START and FINISH of the regular expression. <br>
  In the code snippet for validating a user's email address, the regex starts with the `^` and ends with the `$` symbol. <br> 
-### Quantifiers:plus_sign:
+### Quantifiers:heavy_plus_sign:
 The different quantifiers in this snippet include brackets and their contents, `{}` as well as the plus sign, `+`, and/or question mark  `?`. <br>
 Brackets tell how many occurances of a character, group, <br>
  or character class must be in the input for a match to be found. <br>
